@@ -11,7 +11,7 @@ This project has not need to load any package.
 Make sure the data file had been extracted to the working directory
 
 ```{r, echo=TRUE}
-act <- read.csv("activity.csv")
+act <- read.csv(unz("activity.zip", "activity.csv"))
 ```
 ## What is mean total number of steps taken per day?
 Draw the histogram of the total number of steps taken per day:
