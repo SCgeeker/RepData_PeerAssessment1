@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 
-This project has not need to load any package.
+I did not load any external package in this project.
 
 ## Loading and preprocessing the data
 Load the data from the zip file and store in 'act'. 
